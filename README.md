@@ -19,8 +19,8 @@ To use this tool, you need to have Python installed on your system. Follow these
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/cookie-parser.git
-   cd cookie-parser
+   git clone https://github.com/jakomader/CookieParser.git
+   cd CookieParser
 ## Install Dependencies
 
 To install the required dependencies, run the following command:
